@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **ikaytas01@gmail.com**
 
-- ⚡ Fun fact: **The Firefox logo isn't a fox 🦊.**
+- ⚡ Fun fact: **The Firefox logo isn't a fox 🦊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
