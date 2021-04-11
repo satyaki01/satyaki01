@@ -1,7 +1,6 @@
 <h1 align="center">Hello There 👋, I'm Satyaki Mukherjee</h1>
 <h3 align="center">I'm a 2nd year (ECE-CS) undergraduate student at SRM UNIVERSITY, Chennai. My interests include anything related to the technological or management field. Other than that I am a Machine learning and AI enthusiast. My hobbies include web/app development and coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamertech2001&label=Profile%20views&color=0e75b6&style=flat" alt="gamertech2001" /> </p>
 
 - 🌱 I’m currently learning: **JavaScript,TensorFlow**
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me: **ikaytas01@gmail.com**
 
-- ⚡ Fun fact: **The Firefox logo isn't a fox 🦊**
+- ⚡ Fun fact: **The Firefox logo is awesome 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
