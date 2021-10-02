@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Satyaki Mukherjee</h1>
-<h3 align="center">I'm a 2nd year (ECE-CS) undergraduate student at SRM UNIVERSITY, Chennai. My interests include anything related to the technological or management field. Other than that I am a Machine learning and AI enthusiast. My hobbies include web/app development and coding.</h3>
+<h3 align="center">3rd year (ECE-CS) undergraduate student at SRM UNIVERSITY, Chennai. Ability to work with C, C++, and Python. Knowledgeable in various avenues of Machine Learning,App and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamertech2001&label=Profile%20views&color=0e75b6&style=flat" alt="gamertech2001" /> </p>
 
